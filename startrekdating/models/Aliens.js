@@ -15,12 +15,12 @@ const AlienSchema = new Schema({
   image: {
     type: String,
     required: true
-  },
-   count:{
-    type: Number,
-    default: 0,
-    required: true
-   }
+  }
+//    count:{
+//     type: Number,
+//     default: 0,
+//     required: true
+//    }
 
 });
 
